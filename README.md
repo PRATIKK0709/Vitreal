@@ -11,7 +11,7 @@ Effortlessly capture, save, and manage app-specific screenshots with ease and pr
 
 ## Screenshots
 
-![Screenshot-Vitreal-2025-01-03T23-17-44Z](https://github.com/user-attachments/assets/af9a66b7-b0d6-4465-8537-d6f5e2716651)
+<img src="https://github.com/user-attachments/assets/af9a66b7-b0d6-4465-8537-d6f5e2716651" alt="Screenshot-Vitreal-2025-01-03T23-17-44Z" width="500" />
 
 
 
